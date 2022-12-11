@@ -36,40 +36,41 @@
     ],
     "fooddata":[
       {
-        "image":"",
-        "title":"",
-        "description":"",
-        "price":"",
-        "rating":""
+        "image":"https://b.zmtcdn.com/data/dish_photos/5f5/405088c2edb8b1413b10906a134705f5.jpg?fit=around|130:130&crop=130:130;*,*",
+        "title":"Black Chana(Usal) With Thepla",
+        "description":"Protein packed black chana dal cooked in roasted coconut & curry leaf gravy. Served with 3 Theplas. Topped with Coriander. Allergen information: Contains Gluten.",
+        "price":159,
+        "rating":4
       },
       {
-        "image":"",
-        "title":"",
-        "description":"",
-        "price":"",
-        "rating":""
+        "image":"https://b.zmtcdn.com/data/dish_photos/957/57812febe14c4e775e092000a9c2b957.jpg?fit=around|130:130&crop=130:130;*,*",
+        "title":"Kadhai Paneer, Bhindi, Paratha Thali",
+        "description":"Enjoy scoops of soft whole wheat paratha with flavourful kadhai paneer and bhindi chana. Served with salad and pickle. Allergen information: Gluten, dairy, nuts, seeds.",
+        "price":259,
+        "rating":3
       },
       {
-        "image":"",
-        "title":"",
-        "description":"",
-        "price":"",
-        "rating":""
+        "image":"https://b.zmtcdn.com/data/dish_photos/da2/ef2c5c795e8c895afdb9d30873b9fda2.jpg?fit=around|130:130&crop=130:130;*,*",
+        "title":"Lasooni Methi Paneer, Aloo Gobhi & Paratha Thali",
+        "description":"Tangy, spicy, juicy mix of chana masala has been paired with delicious roasted potatoes cooked with methi leaves and fresh peas and soft whole wheat parathas. Served with salad & pickle. Allergen information: Gluten.",
+        "price":249,
+        "rating":4
       },
       {
-        "image":"",
-        "title":"",
-        "description":"",
-        "price":"",
-        "rating":""
+        "image":"https://b.zmtcdn.com/data/dish_photos/ac9/140a12c43f5430b81d3dbf83a20f4ac9.jpg?fit=around|130:130&crop=130:130;*,*",
+        "title":"Kadhai Paneer, Soya Masala Sabzi, Paratha Thali",
+        "description":"A flavourful paratha thali! Enjoy scoops of soft whole wheat paratha with flavourful kadhai paneer and chewy tasty soya masala sabzi. Served with salad and pickle. Allergen information: Gluten, dairy, nuts, seeds, soy.",
+        "price":249,
+        "rating":2
       }
     ],
     "user":[
-      {
-        "fname":"",
-        "lname":"",
-        "email":"",
-        "password":""
+      { 
+        "username":"Admin001",
+        "fname":"Ankit",
+        "lname":"Choubey",
+        "email":"admin001@gmail.com",
+        "password":"Admin001"
       }
     ]
   }
